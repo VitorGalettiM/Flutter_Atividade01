@@ -1,0 +1,14 @@
+{
+  "contas": [
+    {
+      "id": 1,
+      "nome": "Conta Principal",
+      "saldo": 5000.00
+    },
+    {
+      "id": 2,
+      "nome": "Conta Poupança",
+      "saldo": 2000.00
+    }
+  ]
+}
